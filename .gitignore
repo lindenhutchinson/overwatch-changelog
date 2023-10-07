@@ -1,0 +1,5 @@
+venv
+.env
+heroes
+judgements
+__pycache__
